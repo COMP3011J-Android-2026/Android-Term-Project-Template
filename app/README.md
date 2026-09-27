@@ -17,19 +17,21 @@ The folder should contain the Android Studio project files, including:
 - Gradle configuration files
 - Required project dependencies
 
-A typical Android Studio project structure may look like:
+A typical repository structure should look like:
 
-app/
-├── build.gradle
-├── src/
-│   ├── main/
-│   │   ├── java/
-│   │   ├── res/
-│   │   └── AndroidManifest.xml
+```text
+Group-XX-Android-App
+
+├── app/
+│   └── Android Studio project source code
 │
-├── build.gradle
-├── settings.gradle
-└── gradle/
+├── docs/
+│   └── Project documentation files
+│
+├── README.md
+│
+└── CONTRIBUTION.md
+```
 
 
 ## Important Notes
