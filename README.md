@@ -99,8 +99,8 @@ The following documents must be maintained during the project:
 | `docs/project-outline.md` | Project idea, related applications, features, and development plan |
 | `docs/weekly-progress.md` | Weekly progress updates and completed tasks |
 | `docs/technical-decisions.md` | Important implementation decisions |
+| `docs/feedback.md` | Feedback provided during project reviews, interviews, and milestone evaluations |
 | `CONTRIBUTION.md` | Individual contribution tracking |
-
 
 Students should update these documents throughout the project development process.
 
@@ -275,7 +275,8 @@ The repository should follow the structure below:
 │   ├── team-members.md
 │   ├── project-outline.md
 │   ├── weekly-progress.md
-│   └── technical-decisions.md
+│   ├── technical-decisions.md
+│   └── feedback.md
 │
 ├── README.md
 │
